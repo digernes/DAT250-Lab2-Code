@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 07 10:57:44 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-67c9-0d81-00000c6efe00 
+on database directory C:\Users\joste\Documents\Skole\DAT250\Databaser\relationshipDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1 
+Loaded from file:/C:/Users/joste/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.4+10-b304.69
+user.dir=C:\Users\joste\Downloads\dat250-jpa-examples-master\dat250-jpa-examples-master\eclipselink\relations
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
